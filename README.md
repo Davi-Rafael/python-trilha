@@ -40,7 +40,7 @@ self.diaEvento(evento)
 
 Printa uma lista com os dias que aquele evento ocorre. Se não houver eventos no dia, printa uma lista vazia.
 
-5.  relatorioDia: printa um relatório com todos os dias e eventos.
+5.  mostrarCalendario: printa um relatório com todos os dias e eventos.
 
 ``` python
 self.mostrarCalendario()
